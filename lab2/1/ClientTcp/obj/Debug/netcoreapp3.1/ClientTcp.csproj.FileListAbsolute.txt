@@ -1,0 +1,14 @@
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\bin\Debug\netcoreapp3.1\ClientTcp.exe
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\bin\Debug\netcoreapp3.1\ClientTcp.deps.json
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\bin\Debug\netcoreapp3.1\ClientTcp.runtimeconfig.json
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\bin\Debug\netcoreapp3.1\ClientTcp.runtimeconfig.dev.json
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\bin\Debug\netcoreapp3.1\ClientTcp.dll
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\bin\Debug\netcoreapp3.1\ClientTcp.pdb
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\obj\Debug\netcoreapp3.1\ClientTcp.csproj.AssemblyReference.cache
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\obj\Debug\netcoreapp3.1\ClientTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\obj\Debug\netcoreapp3.1\ClientTcp.AssemblyInfoInputs.cache
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\obj\Debug\netcoreapp3.1\ClientTcp.AssemblyInfo.cs
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\obj\Debug\netcoreapp3.1\ClientTcp.csproj.CoreCompileInputs.cache
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\obj\Debug\netcoreapp3.1\ClientTcp.dll
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\obj\Debug\netcoreapp3.1\ClientTcp.pdb
+C:\Users\79247\Source\Repos\Laba2\ClientTcp\obj\Debug\netcoreapp3.1\ClientTcp.genruntimeconfig.cache

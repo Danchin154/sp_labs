@@ -1,0 +1,14 @@
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.exe
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.deps.json
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.runtimeconfig.json
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.runtimeconfig.dev.json
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.dll
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.pdb
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.csproj.AssemblyReference.cache
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.AssemblyInfoInputs.cache
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.AssemblyInfo.cs
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.dll
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.pdb
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.genruntimeconfig.cache

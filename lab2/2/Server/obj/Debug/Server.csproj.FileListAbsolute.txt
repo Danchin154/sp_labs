@@ -1,0 +1,6 @@
+R:\Программы\fileSenderTCP\Server\bin\Debug\Server.exe.config
+R:\Программы\fileSenderTCP\Server\bin\Debug\Server.exe
+R:\Программы\fileSenderTCP\Server\bin\Debug\Server.pdb
+R:\Программы\fileSenderTCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+R:\Программы\fileSenderTCP\Server\obj\Debug\Server.exe
+R:\Программы\fileSenderTCP\Server\obj\Debug\Server.pdb

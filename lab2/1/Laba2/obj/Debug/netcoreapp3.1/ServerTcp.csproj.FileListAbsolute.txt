@@ -1,0 +1,14 @@
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\ServerTcp.exe
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\ServerTcp.deps.json
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\ServerTcp.runtimeconfig.json
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\ServerTcp.runtimeconfig.dev.json
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\ServerTcp.dll
+C:\Users\79247\Source\Repos\Laba2\Laba2\bin\Debug\netcoreapp3.1\ServerTcp.pdb
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\ServerTcp.csproj.AssemblyReference.cache
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\ServerTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\ServerTcp.AssemblyInfoInputs.cache
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\ServerTcp.AssemblyInfo.cs
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\ServerTcp.csproj.CoreCompileInputs.cache
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\ServerTcp.dll
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\ServerTcp.pdb
+C:\Users\79247\Source\Repos\Laba2\Laba2\obj\Debug\netcoreapp3.1\ServerTcp.genruntimeconfig.cache

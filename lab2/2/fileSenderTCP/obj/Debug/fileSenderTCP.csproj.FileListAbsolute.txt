@@ -1,0 +1,7 @@
+R:\Программы\fileSenderTCP\fileSenderTCP\bin\Debug\fileSenderTCP.exe.config
+R:\Программы\fileSenderTCP\fileSenderTCP\bin\Debug\fileSenderTCP.exe
+R:\Программы\fileSenderTCP\fileSenderTCP\bin\Debug\fileSenderTCP.pdb
+R:\Программы\fileSenderTCP\fileSenderTCP\obj\Debug\fileSenderTCP.csproj.AssemblyReference.cache
+R:\Программы\fileSenderTCP\fileSenderTCP\obj\Debug\fileSenderTCP.csproj.CoreCompileInputs.cache
+R:\Программы\fileSenderTCP\fileSenderTCP\obj\Debug\fileSenderTCP.exe
+R:\Программы\fileSenderTCP\fileSenderTCP\obj\Debug\fileSenderTCP.pdb
