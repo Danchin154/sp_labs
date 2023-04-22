@@ -29,5 +29,5 @@
     
     ### __Ответ:__ 
     
-    Перейдите по ссылке: https://github.com/Danchin154/sp_labs/tree/main/lab4. Запустите указанную программу на Python. Установите библиотеки в написав команду  $ pip install requests beautifulsoup4, если они у вас отсутствуют.
+    Перейдите по ссылке: https://github.com/Danchin154/sp_labs/tree/main/lab4. Запустите указанную программу на Python. Установите библиотеки в написав команду __$ pip install requests beautifulsoup4__, если они у вас отсутствуют.
     
